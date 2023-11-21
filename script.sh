@@ -1,5 +1,5 @@
 echo Instalado pacotes:
-apt-get update
+apt-get update -y
 apt-get install traceroute -y
 echo ----------------------------------
 echo $USER
